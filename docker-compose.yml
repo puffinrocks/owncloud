@@ -3,7 +3,7 @@ version: '2'
 services:
 
     main:
-        image: loomchild/owncloud
+        image: puffinrocks/owncloud
         ports: 
             - 80
         volumes: 
