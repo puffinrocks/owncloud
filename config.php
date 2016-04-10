@@ -15,4 +15,6 @@ $CONFIG = array(
 
 'singleuser' => true,
 
+'updatechecker' => false,
+
 );
