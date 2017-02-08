@@ -3,7 +3,7 @@ version: '2'
 services:
 
     main:
-        image: puffinrocks/owncloud
+        image: puffinrocks/owncloud:9.1.4
         ports: 
             - 80
         environment:
