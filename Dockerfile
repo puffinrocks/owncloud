@@ -1,4 +1,4 @@
-FROM owncloud:9.1.4
+FROM owncloud:latest
 
 ENV VERSION=$OWNCLOUD_VERSION
 
